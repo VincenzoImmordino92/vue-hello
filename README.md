@@ -8,5 +8,6 @@ Bonus:
 
 Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 ## Ragionamento logico
-
+1. linkare in pagina Vue
+2. 
 
