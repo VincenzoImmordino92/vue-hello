@@ -3,10 +3,8 @@ const {createApp} = Vue
 createApp({
   data(){
     return{
-        info:[
-          'testo',
-          'immagine'
-        ] 
+        testo:'Ciao a tutti sto cercando di capire Vue',
+        immagine:'/jak-and-dexter-01_hg8e.jpg'
     }
   },
   methods:{
